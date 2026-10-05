@@ -29,7 +29,7 @@ import java.util.stream.Collectors;
  *   javac IosNetworkSecurityAnalyzer.java
  *   java IosNetworkSecurityAnalyzer <ios-project-dir>
  *
- * 咨询 ios 系统请咨询  telegram：@DZHT333333
+ * 咨询 ios 系统请咨询  telegram：@MD120789
  */
 public class IosNetworkSecurityAnalyzer {
 

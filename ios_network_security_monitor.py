@@ -23,7 +23,7 @@ ios_network_security_monitor.py
   python3 ios_network_security_monitor.py <ios-project-dir>
   python3 ios_network_security_monitor.py <ios-project-dir> --watch 30   # 每30秒复扫
 
-咨询 ios 系统请咨询  telegram：@DZHT333333
+咨询 ios 系统请咨询  telegram：@MD120789
 """
 
 import argparse

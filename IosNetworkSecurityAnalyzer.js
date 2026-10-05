@@ -22,7 +22,7 @@
  * 用法：
  *   node IosNetworkSecurityAnalyzer.js <ios-project-dir>
  *
- * 咨询 ios 系统请咨询  telegram：@DZHT333333
+ * 咨询 ios 系统请咨询  telegram：@MD120789
  */
 
 'use strict';
