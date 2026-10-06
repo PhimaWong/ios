@@ -228,7 +228,7 @@ iOS 移动支付的平台层防护（Secure Element、tokenization、沙箱）�
 
 ---
 
-> ## 联系方式（请读者注意）
+> ## 联系方式
 >
 > **咨询 ios 系统请咨询  telegram：@MD120789**
 >
